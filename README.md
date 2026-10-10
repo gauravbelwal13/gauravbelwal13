@@ -103,3 +103,15 @@ Technologies I use to build applications and interactive experiences.
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
+
+---
+
+<div align="center">
+
+## GITHUB ANALYTICS
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gauravbelwal13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravbelwal13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top programming languages" />
+
+</div>
