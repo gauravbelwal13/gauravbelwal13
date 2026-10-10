@@ -1,128 +1,230 @@
 
+<!-- ==================== HERO ==================== -->
+
 <div align="center">
 
-# GAURAV BELWAL
-
-### SOFTWARE ENGINEER · FLUTTER DEVELOPER
-
-Building useful mobile applications and interactive experiences.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:101820,50:163D35,100:101820&text=GAURAV%20BELWAL&fontColor=E8FFF2&fontSize=46&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%7C%20FLUTTER%20%7C%20IOT&descSize=14&descAlignY=68&animation=fadeIn" />
 
 <br/>
 
 <a href="https://github.com/gauravbelwal13">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://flutter.dev">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<a href="https://www.linkedin.com/in/gaurav-belwal-50542623a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://unity.com">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+<a href="mailto:gauravbelwal13@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-2D6A4F?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/gauravbelwal13/gauravbelwal13/output/github-snake-dark.svg" alt="GitHub contribution animation" width="100%" />
+<i>Building mobile experiences. Connecting devices. Solving real problems.</i>
 
 </div>
 
----
-
-## About Me
-
-I'm a software engineer focused on mobile development,
-maintainable architecture, and interactive experiences.
-
-- 📱 Cross-platform development with Flutter
-- 🎮 Game development with Unity and C#
-- 🗄️ Database design and API integration
-- 🧩 Building practical software projects
-
----
+<!-- ==================== CONTRIBUTIONS ==================== -->
 
 <div align="center">
 
-## FEATURED PROJECTS
-
-My projects, experiments, and things I've built.
-
-</div>
-
-### 📱 Mobile Applications
-
-| Project | Description | Stack |
-|---|---|---|
-| [DebtPilot](https://github.com/gauravbelwal13/debt_pilot) | Debt tracking and repayment management | Flutter |
-| [DevVault](https://github.com/gauravbelwal13/devvault) | Developer-focused project | Flutter |
-| [PrepMate](https://github.com/gauravbelwal13/prep_mate) | Preparation and productivity project | Flutter |
-| [Vaikunth Nrityashala](https://github.com/gauravbelwal13/vaikunth-nrityashala) | Dance academy project | Flutter |
-
-### 🎮 Game Development
-
-| Project | Description | Stack |
-|---|---|---|
-| [Ball-Em-Up](https://github.com/gauravbelwal13/Ball-Em-Up) | 3D game project | Unity · C# |
-
-
-
-<div align="center">
-
-## TECH STACK
-
-Technologies I use to build applications and interactive experiences.
-
-</div>
-
-### 📱 Mobile Development
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-### 🎮 Game Development
-
-<p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-</p>
-
-### 🗄️ Databases & Backend
-
-<p>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
-</p>
-
-### 🛠️ Tools & Workflow
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
-<div align="center">
-
-## GITHUB ANALYTICS
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gauravbelwal13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravbelwal13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top programming languages" />
+<img width="100%" src="https://raw.githubusercontent.com/gauravbelwal13/gauravbelwal13/output/github-snake-dark.svg" alt="GitHub contribution animation" />
 
 </div>
 
 ---
 
+<!-- ==================== ABOUT ==================== -->
+
+## `01` / About Me
+
+I'm a software engineer focused on **Flutter development, IoT systems, and real-time applications**.
+
+I have worked on customizable IoT dashboards using MQTT, cloud-hosted infrastructure, and persistent local storage. I've also contributed to a production social application, improving navigation, messaging, audio chat, and third-party API integrations.
+
+- 📱 Cross-platform application development with Flutter
+- 📡 Real-time device communication using MQTT
+- ☁️ AWS infrastructure and backend integration
+- 💬 Real-time messaging with Socket.IO
+- 🗃️ Local persistence using SQLite and Hive
+- 🧩 Exploring backend development with JavaScript and Spring Boot
+
+---
+
+## `02` / Engineering Highlights
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 IoT & Device Control
+
+**Smart IoT MQTT Control Dashboard**
+
+- Customizable dashboard for real-time device control
+- MQTT communication and device monitoring
+- Local persistence for layouts and device settings
+- AWS EC2-hosted services and infrastructure
+- Cross-platform support, including Linux
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Social Application Engineering
+
+**AICIC Social App**
+
+- Improved navigation and application stability
+- Worked on real-time messaging features
+- Resolved audio chat issues
+- Integrated RESTful and third-party APIs
+- Improved UI updates and user experience
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03` / Selected Projects
+
+### 📱 Flutter Applications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### DebtPilot
+
+A debt tracking and repayment management application.
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/gauravbelwal13/debt_pilot">View repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### DevVault
+
+A developer-focused application.
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/gauravbelwal13/devvault">View repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### PrepMate
+
+A preparation and productivity application.
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/gauravbelwal13/prep_mate">View repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### Vaikunth Nrityashala
+
+An academy-related application.
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/gauravbelwal13/vaikunth-nrityashala">View repository →</a>
+
+</td>
+</tr>
+</table>
+
+### 🎮 Unity Game Development
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### Ball-Em-Up
+
+A 3D game development project built with Unity and C#.
+
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/gauravbelwal13/Ball-Em-Up">View repository →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04` / Technology Stack
+
 <div align="center">
 
-**BUILD. LEARN. IMPROVE. REPEAT.**
+### Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,react" />
+
+### IoT, Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=aws,java,spring,js,ts,sqlite,postgres,firebase" />
+
+### Tools & Game Development
+
+<img src="https://skillicons.dev/icons?i=unity,cs,git,github,docker,vscode,python" />
+
+</div>
+
+---
+
+## `05` / GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/gauravbelwal13">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gauravbelwal13&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+</a>
+
+<a href="https://github.com/gauravbelwal13">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravbelwal13&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravbelwal13&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### THINK · BUILD · SHIP · IMPROVE
+
+<i>Writing code is the beginning. Building something useful is the goal.</i>
+
+<br/><br/>
+
+<a href="https://github.com/gauravbelwal13?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-163D35?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
