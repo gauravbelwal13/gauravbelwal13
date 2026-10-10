@@ -64,11 +64,7 @@ My projects, experiments, and things I've built.
 |---|---|---|
 | [Ball-Em-Up](https://github.com/gauravbelwal13/Ball-Em-Up) | 3D game project | Unity · C# |
 
-### 🧪 Other Projects
 
-Add your sixth project here when you are ready to feature it.
-
----
 
 <div align="center">
 
