@@ -21,6 +21,12 @@ Building useful mobile applications and interactive experiences.
 
 </div>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/gauravbelwal13/gauravbelwal13/output/github-snake-dark.svg" alt="GitHub contribution animation" width="100%" />
+
+</div>
+
 ---
 
 ## About Me
@@ -32,7 +38,6 @@ maintainable architecture, and interactive experiences.
 - 🎮 Game development with Unity and C#
 - 🗄️ Database design and API integration
 - 🧩 Building practical software projects
-
 
 ---
 
@@ -57,8 +62,11 @@ My projects, experiments, and things I've built.
 
 | Project | Description | Stack |
 |---|---|---|
-| Ball-Em-Up | 3D game project | Unity · C# |
+| [Ball-Em-Up](https://github.com/gauravbelwal13/Ball-Em-Up) | 3D game project | Unity · C# |
 
+### 🧪 Other Projects
+
+Add your sixth project here when you are ready to feature it.
 
 ---
 
@@ -103,7 +111,6 @@ Technologies I use to build applications and interactive experiences.
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-
 ---
 
 <div align="center">
@@ -116,14 +123,10 @@ Technologies I use to build applications and interactive experiences.
 
 </div>
 
-
-
 ---
 
 <div align="center">
 
-## CONTRIBUTION GRAPH
-
-<img src="https://raw.githubusercontent.com/gauravbelwal13/gauravbelwal13/output/github-snake-dark.svg" alt="GitHub contribution snake" />
+**BUILD. LEARN. IMPROVE. REPEAT.**
 
 </div>
