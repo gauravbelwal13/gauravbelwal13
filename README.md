@@ -1,4 +1,4 @@
-
+ 
 <!-- ==================== HERO ==================== -->
 
 <div align="center">
@@ -23,14 +23,6 @@
 
 </div>
 
-<!-- ==================== CONTRIBUTIONS ==================== -->
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/gauravbelwal13/gauravbelwal13/output/github-snake-dark.svg" alt="GitHub contribution animation" />
-
-</div>
-
 ---
 
 <!-- ==================== ABOUT ==================== -->
@@ -39,18 +31,65 @@
 
 I'm a software engineer focused on **Flutter development, IoT systems, and real-time applications**.
 
-I have worked on customizable IoT dashboards using MQTT, cloud-hosted infrastructure, and persistent local storage. I've also contributed to a production social application, improving navigation, messaging, audio chat, and third-party API integrations.
+I enjoy building applications that connect clean interfaces with reliable data, device communication, and practical backend services.
 
 - 📱 Cross-platform application development with Flutter
 - 📡 Real-time device communication using MQTT
 - ☁️ AWS infrastructure and backend integration
-- 💬 Real-time messaging with Socket.IO
+- 💬 Real-time messaging and API integrations
 - 🗃️ Local persistence using SQLite and Hive
-- 🧩 Exploring backend development with JavaScript and Spring Boot
+- 🎮 Game development with Unity and C#
+- 🧩 Expanding my skills in native Android and backend development
 
 ---
 
-## `02` / Engineering Highlights
+<!-- ==================== TECHNOLOGY STACK ==================== -->
+
+## `02` / Technology Stack
+
+<div align="center">
+
+### Mobile & Application Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,react" alt="Flutter, Dart, Kotlin and React" />
+
+<br/><br/>
+
+### Backend, APIs & IoT
+
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,aws,firebase" alt="Java, Spring, JavaScript, TypeScript, AWS and Firebase" />
+
+<br/><br/>
+
+### Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=sqlite,postgres,docker,linux" alt="SQLite, PostgreSQL, Docker and Linux" />
+
+<br/><br/>
+
+### Tools & Game Development
+
+<img src="https://skillicons.dev/icons?i=unity,cs,git,github,vscode,python" alt="Unity, C Sharp, Git, GitHub, VS Code and Python" />
+
+</div>
+
+**Core areas**
+
+- **Mobile:** Flutter, Dart, Kotlin, React Native
+- **State & architecture:** Application architecture, state management, modular feature development
+- **Networking:** REST APIs, JSON, MQTT, Socket.IO
+- **Storage:** SQLite, Hive, PostgreSQL, Firebase
+- **Infrastructure:** AWS EC2, Docker, Linux
+- **Development tools:** Git, GitHub, VS Code
+- **Game development:** Unity, C#
+
+*The icon grid represents technologies I work with or am exploring; it isn't a claim of equal proficiency in every technology.*
+
+---
+
+<!-- ==================== ENGINEERING HIGHLIGHTS ==================== -->
+
+## `03` / Engineering Highlights
 
 <table>
 <tr>
@@ -60,11 +99,11 @@ I have worked on customizable IoT dashboards using MQTT, cloud-hosted infrastruc
 
 **Smart IoT MQTT Control Dashboard**
 
-- Customizable dashboard for real-time device control
-- MQTT communication and device monitoring
-- Local persistence for layouts and device settings
-- AWS EC2-hosted services and infrastructure
-- Cross-platform support, including Linux
+- Real-time device communication and control
+- MQTT topic-based messaging and monitoring
+- Local persistence for device settings and layouts
+- AWS EC2-hosted broker infrastructure
+- Cross-platform development, including Linux
 
 </td>
 <td width="50%" valign="top">
@@ -73,10 +112,10 @@ I have worked on customizable IoT dashboards using MQTT, cloud-hosted infrastruc
 
 **AICIC Social App**
 
-- Improved navigation and application stability
-- Worked on real-time messaging features
-- Resolved audio chat issues
-- Integrated RESTful and third-party APIs
+- Worked on application navigation and stability
+- Contributed to real-time messaging features
+- Investigated and resolved audio chat issues
+- Integrated REST APIs and third-party services
 - Improved UI updates and user experience
 
 </td>
@@ -85,7 +124,9 @@ I have worked on customizable IoT dashboards using MQTT, cloud-hosted infrastruc
 
 ---
 
-## `03` / Selected Projects
+<!-- ==================== PROJECTS ==================== -->
+
+## `04` / Selected Projects
 
 ### 📱 Flutter Applications
 
@@ -95,7 +136,7 @@ I have worked on customizable IoT dashboards using MQTT, cloud-hosted infrastruc
 
 ### DebtPilot
 
-A debt tracking and repayment management application.
+A debt tracking and repayment management application designed to organize debts, payment schedules, and financial information.
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
@@ -109,7 +150,7 @@ A debt tracking and repayment management application.
 
 ### DevVault
 
-A developer-focused application.
+A developer and media toolkit bringing practical image, audio, video, PDF, and voice utilities together in one Flutter application.
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
@@ -139,7 +180,7 @@ A preparation and productivity application.
 
 ### Vaikunth Nrityashala
 
-An academy-related application.
+An academy-related application project.
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
@@ -175,25 +216,7 @@ A 3D game development project built with Unity and C#.
 
 ---
 
-## `04` / Technology Stack
-
-<div align="center">
-
-### Mobile Development
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,react" />
-
-### IoT, Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=aws,java,spring,js,ts,sqlite,postgres,firebase" />
-
-### Tools & Game Development
-
-<img src="https://skillicons.dev/icons?i=unity,cs,git,github,docker,vscode,python" />
-
-</div>
-
----
+<!-- ==================== GITHUB ANALYTICS ==================== -->
 
 ## `05` / GitHub Analytics
 
@@ -211,13 +234,19 @@ A 3D game development project built with Unity and C#.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravbelwal13&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" width="100%" />
 
+<br/><br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/gauravbelwal13/gauravbelwal13/output/github-snake-dark.svg" alt="GitHub contribution animation" />
+
 </div>
 
 ---
 
+<!-- ==================== CONNECT ==================== -->
+
 <div align="center">
 
-### THINK · BUILD · SHIP · IMPROVE
+## THINK · BUILD · SHIP · IMPROVE
 
 <i>Writing code is the beginning. Building something useful is the goal.</i>
 
@@ -225,6 +254,10 @@ A 3D game development project built with Unity and C#.
 
 <a href="https://github.com/gauravbelwal13?tab=repositories">
   <img src="https://img.shields.io/badge/Explore_My_Repositories-163D35?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/gaurav-belwal-50542623a">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
