@@ -3,18 +3,18 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:101820,50:163D35,100:101820&text=GAURAV%20BELWAL&fontColor=E8FFF2&fontSize=46&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%7C%20FLUTTER%20%7C%20IOT&descSize=14&descAlignY=68&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:101820,50:163D35,100:101820&text=GAURAV%20BELWAL&fontColor=E8FFF2&fontSize=46&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%7C%20FLUTTER%20%7C%20IOT&descSize=14&descAlignY=68&animation=fadeIn" alt="Gaurav Belwal | Software Engineer, Flutter and IoT" />
 
 <br/>
 
 <a href="https://github.com/gauravbelwal13">
-  <img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/gaurav-belwal-50542623a">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:gauravbelwal13@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-2D6A4F?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-2D6A4F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/><br/>
@@ -39,37 +39,33 @@ I enjoy building applications that connect clean interfaces with reliable data, 
 - 💬 Real-time messaging and API integrations
 - 🗃️ Local persistence using SQLite and Hive
 - 🎮 Game development with Unity and C#
-- 🧩 Expanding my skills in native Android and backend development
+- 🧩 Exploring native Android and backend development
 
 ---
 
- 
 <!-- ==================== TECHNOLOGY STACK ==================== -->
 
 ## `02` / Technology Stack
 
 <div align="center">
 
-*Explore the technologies I use to build applications, connect devices, and ship software.*
+<i>Tools and technologies for building applications, connecting devices, and shipping software.</i>
 
-<br/>
+<br/><br/>
 
 ### 📱 Mobile & Application Development
 
 <a href="https://flutter.dev/" title="Flutter">
   <img src="https://skillicons.dev/icons?i=flutter" height="52" alt="Flutter" />
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="https://dart.dev/" title="Dart">
   <img src="https://skillicons.dev/icons?i=dart" height="52" alt="Dart" />
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="https://kotlinlang.org/" title="Kotlin">
   <img src="https://skillicons.dev/icons?i=kotlin" height="52" alt="Kotlin" />
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="https://reactnative.dev/" title="React Native">
-  <img src="https://skillicons.dev/icons?i=react" height="52" alt="React Native / React ecosystem" />
+  <img src="https://skillicons.dev/icons?i=react" height="52" alt="React ecosystem" />
 </a>
 
 <br/><br/>
@@ -78,24 +74,19 @@ I enjoy building applications that connect clean interfaces with reliable data, 
 
 <a href="https://www.java.com/" title="Java">
   <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" />
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="https://spring.io/projects/spring-boot" title="Spring Boot">
   <img src="https://skillicons.dev/icons?i=spring" height="48" alt="Spring" />
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
   <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" />
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="https://www.typescriptlang.org/" title="TypeScript">
   <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript" />
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="https://aws.amazon.com/ec2/" title="AWS EC2">
   <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS" />
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="https://firebase.google.com/" title="Firebase">
   <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase" />
 </a>
@@ -106,16 +97,13 @@ I enjoy building applications that connect clean interfaces with reliable data, 
 
 <a href="https://www.sqlite.org/" title="SQLite">
   <img src="https://skillicons.dev/icons?i=sqlite" height="46" alt="SQLite" />
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="https://www.postgresql.org/" title="PostgreSQL">
   <img src="https://skillicons.dev/icons?i=postgres" height="46" alt="PostgreSQL" />
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="https://www.docker.com/" title="Docker">
   <img src="https://skillicons.dev/icons?i=docker" height="46" alt="Docker" />
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="https://www.linux.org/" title="Linux">
   <img src="https://skillicons.dev/icons?i=linux" height="46" alt="Linux" />
 </a>
@@ -126,24 +114,19 @@ I enjoy building applications that connect clean interfaces with reliable data, 
 
 <a href="https://unity.com/" title="Unity">
   <img src="https://skillicons.dev/icons?i=unity" height="46" alt="Unity" />
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C Sharp">
   <img src="https://skillicons.dev/icons?i=cs" height="46" alt="C Sharp" />
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="https://git-scm.com/" title="Git">
   <img src="https://skillicons.dev/icons?i=git" height="46" alt="Git" />
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="https://github.com/" title="GitHub">
   <img src="https://skillicons.dev/icons?i=github" height="46" alt="GitHub" />
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="https://code.visualstudio.com/" title="Visual Studio Code">
   <img src="https://skillicons.dev/icons?i=vscode" height="46" alt="Visual Studio Code" />
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="https://www.python.org/" title="Python">
   <img src="https://skillicons.dev/icons?i=python" height="46" alt="Python" />
 </a>
@@ -169,10 +152,9 @@ I enjoy building applications that connect clean interfaces with reliable data, 
 
 </details>
 
-<sub>Technology icons link to their respective official websites. Icon availability and hover tooltips depend on the GitHub renderer and the external icon service.</sub>
+<sub>Icons link to official technology websites where available. Hover tooltips depend on browser and GitHub rendering behavior.</sub>
 
 ---
-
 
 <!-- ==================== ENGINEERING HIGHLIGHTS ==================== -->
 
@@ -223,10 +205,10 @@ I enjoy building applications that connect clean interfaces with reliable data, 
 
 ### DebtPilot
 
-A debt tracking and repayment management application designed to organize debts, payment schedules, and financial information.
+A debt tracking and repayment management application for organizing debts, payment schedules, and financial information.
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
 
 <br/><br/>
 
@@ -237,10 +219,10 @@ A debt tracking and repayment management application designed to organize debts,
 
 ### DevVault
 
-A developer and media toolkit bringing practical image, audio, video, PDF, and voice utilities together in one Flutter application.
+A developer and media toolkit with image utilities, audio and video trimming, media-to-PDF conversion, and Voice Studio.
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
 
 <br/><br/>
 
@@ -255,8 +237,8 @@ A developer and media toolkit bringing practical image, audio, video, PDF, and v
 
 A preparation and productivity application.
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
 
 <br/><br/>
 
@@ -269,8 +251,8 @@ A preparation and productivity application.
 
 An academy-related application project.
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
 
 <br/><br/>
 
@@ -290,8 +272,8 @@ An academy-related application project.
 
 A 3D game development project built with Unity and C#.
 
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp" />
 
 <br/><br/>
 
@@ -312,7 +294,6 @@ A 3D game development project built with Unity and C#.
 <a href="https://github.com/gauravbelwal13">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gauravbelwal13&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 </a>
-
 <a href="https://github.com/gauravbelwal13">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravbelwal13&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
 </a>
@@ -340,11 +321,10 @@ A 3D game development project built with Unity and C#.
 <br/><br/>
 
 <a href="https://github.com/gauravbelwal13?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Repositories-163D35?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-163D35?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
 </a>
-
 <a href="https://www.linkedin.com/in/gaurav-belwal-50542623a">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 
 </div>
