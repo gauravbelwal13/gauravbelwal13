@@ -43,49 +43,136 @@ I enjoy building applications that connect clean interfaces with reliable data, 
 
 ---
 
+ 
 <!-- ==================== TECHNOLOGY STACK ==================== -->
 
 ## `02` / Technology Stack
 
 <div align="center">
 
-### Mobile & Application Development
+*Explore the technologies I use to build applications, connect devices, and ship software.*
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,react" alt="Flutter, Dart, Kotlin and React" />
+<br/>
+
+### 📱 Mobile & Application Development
+
+<a href="https://flutter.dev/" title="Flutter">
+  <img src="https://skillicons.dev/icons?i=flutter" height="52" alt="Flutter" />
+</a>
+&nbsp;
+<a href="https://dart.dev/" title="Dart">
+  <img src="https://skillicons.dev/icons?i=dart" height="52" alt="Dart" />
+</a>
+&nbsp;
+<a href="https://kotlinlang.org/" title="Kotlin">
+  <img src="https://skillicons.dev/icons?i=kotlin" height="52" alt="Kotlin" />
+</a>
+&nbsp;
+<a href="https://reactnative.dev/" title="React Native">
+  <img src="https://skillicons.dev/icons?i=react" height="52" alt="React Native / React ecosystem" />
+</a>
 
 <br/><br/>
 
-### Backend, APIs & IoT
+### ⚙️ Backend, APIs & IoT
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,ts,aws,firebase" alt="Java, Spring, JavaScript, TypeScript, AWS and Firebase" />
+<a href="https://www.java.com/" title="Java">
+  <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" />
+</a>
+&nbsp;
+<a href="https://spring.io/projects/spring-boot" title="Spring Boot">
+  <img src="https://skillicons.dev/icons?i=spring" height="48" alt="Spring" />
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" />
+</a>
+&nbsp;
+<a href="https://www.typescriptlang.org/" title="TypeScript">
+  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript" />
+</a>
+&nbsp;
+<a href="https://aws.amazon.com/ec2/" title="AWS EC2">
+  <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS" />
+</a>
+&nbsp;
+<a href="https://firebase.google.com/" title="Firebase">
+  <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase" />
+</a>
 
 <br/><br/>
 
-### Databases & Infrastructure
+### 🗄️ Databases & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=sqlite,postgres,docker,linux" alt="SQLite, PostgreSQL, Docker and Linux" />
+<a href="https://www.sqlite.org/" title="SQLite">
+  <img src="https://skillicons.dev/icons?i=sqlite" height="46" alt="SQLite" />
+</a>
+&nbsp;
+<a href="https://www.postgresql.org/" title="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=postgres" height="46" alt="PostgreSQL" />
+</a>
+&nbsp;
+<a href="https://www.docker.com/" title="Docker">
+  <img src="https://skillicons.dev/icons?i=docker" height="46" alt="Docker" />
+</a>
+&nbsp;
+<a href="https://www.linux.org/" title="Linux">
+  <img src="https://skillicons.dev/icons?i=linux" height="46" alt="Linux" />
+</a>
 
 <br/><br/>
 
-### Tools & Game Development
+### 🛠️ Tools & Game Development
 
-<img src="https://skillicons.dev/icons?i=unity,cs,git,github,vscode,python" alt="Unity, C Sharp, Git, GitHub, VS Code and Python" />
+<a href="https://unity.com/" title="Unity">
+  <img src="https://skillicons.dev/icons?i=unity" height="46" alt="Unity" />
+</a>
+&nbsp;
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C Sharp">
+  <img src="https://skillicons.dev/icons?i=cs" height="46" alt="C Sharp" />
+</a>
+&nbsp;
+<a href="https://git-scm.com/" title="Git">
+  <img src="https://skillicons.dev/icons?i=git" height="46" alt="Git" />
+</a>
+&nbsp;
+<a href="https://github.com/" title="GitHub">
+  <img src="https://skillicons.dev/icons?i=github" height="46" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://code.visualstudio.com/" title="Visual Studio Code">
+  <img src="https://skillicons.dev/icons?i=vscode" height="46" alt="Visual Studio Code" />
+</a>
+&nbsp;
+<a href="https://www.python.org/" title="Python">
+  <img src="https://skillicons.dev/icons?i=python" height="46" alt="Python" />
+</a>
 
 </div>
 
-**Core areas**
+<br/>
 
-- **Mobile:** Flutter, Dart, Kotlin, React Native
-- **State & architecture:** Application architecture, state management, modular feature development
-- **Networking:** REST APIs, JSON, MQTT, Socket.IO
-- **Storage:** SQLite, Hive, PostgreSQL, Firebase
-- **Infrastructure:** AWS EC2, Docker, Linux
-- **Development tools:** Git, GitHub, VS Code
-- **Game development:** Unity, C#
+<details>
+<summary><b>View technical areas and tools</b></summary>
 
-*The icon grid represents technologies I work with or am exploring; it isn't a claim of equal proficiency in every technology.*
+<br/>
+
+| Area | Technologies |
+|---|---|
+| Mobile | Flutter, Dart, Kotlin, React Native |
+| Architecture & state | Clean Architecture, state management, modular application design |
+| APIs & communication | REST APIs, JSON, MQTT, Socket.IO |
+| Data storage | SQLite, Hive, PostgreSQL, Firebase |
+| Infrastructure | AWS EC2, Docker, Linux |
+| Tools | Git, GitHub, VS Code |
+| Game development | Unity, C# |
+
+</details>
+
+<sub>Technology icons link to their respective official websites. Icon availability and hover tooltips depend on the GitHub renderer and the external icon service.</sub>
 
 ---
+
 
 <!-- ==================== ENGINEERING HIGHLIGHTS ==================== -->
 
