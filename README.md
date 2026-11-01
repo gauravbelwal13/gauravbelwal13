@@ -305,7 +305,22 @@ A 3D game development project built with Unity and C#.
 
 <br/><br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/gauravbelwal13/gauravbelwal13/output/github-snake-dark.svg" alt="GitHub contribution animation" />
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gauravbelwal13/gauravbelwal13/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gauravbelwal13/gauravbelwal13/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/gauravbelwal13/gauravbelwal13/output/github-snake.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
 
