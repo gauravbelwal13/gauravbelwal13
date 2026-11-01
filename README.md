@@ -1,4 +1,5 @@
- 
+# `README.md`
+
 <!-- ==================== HERO ==================== -->
 
 <div align="center">
@@ -203,20 +204,6 @@ I enjoy building applications that connect clean interfaces with reliable data, 
 <tr>
 <td width="50%" valign="top">
 
-### DebtPilot
-
-A debt tracking and repayment management application for organizing debts, payment schedules, and financial information.
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-
-<br/><br/>
-
-<a href="https://github.com/gauravbelwal13/debt_pilot">View repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
 ### DevVault
 
 A developer and media toolkit with image utilities, audio and video trimming, media-to-PDF conversion, and Voice Studio.
@@ -229,8 +216,36 @@ A developer and media toolkit with image utilities, audio and video trimming, me
 <a href="https://github.com/gauravbelwal13/devvault">View repository →</a>
 
 </td>
+<td width="50%" valign="top">
+
+### DebtPilot
+
+A debt tracking and repayment management application for organizing debts, payment schedules, and financial information.
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+
+<br/><br/>
+
+<a href="https://github.com/gauravbelwal13/debt_pilot">View repository →</a>
+
+</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### FastFour
+
+A Flutter-based news application for browsing the latest news and staying updated.
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+
+<br/><br/>
+
+<a href="https://github.com/gauravbelwal13/fast_four">View repository →</a>
+
+</td>
 <td width="50%" valign="top">
 
 ### PrepMate
@@ -245,24 +260,10 @@ A preparation and productivity application.
 <a href="https://github.com/gauravbelwal13/prep_mate">View repository →</a>
 
 </td>
-<td width="50%" valign="top">
-
-### Vaikunth Nrityashala
-
-An academy-related application project.
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-
-<br/><br/>
-
-<a href="https://github.com/gauravbelwal13/vaikunth-nrityashala">View repository →</a>
-
-</td>
 </tr>
 </table>
 
-### 🎮 Unity Game Development
+### 🎮 Game Development
 
 <table>
 <tr>
